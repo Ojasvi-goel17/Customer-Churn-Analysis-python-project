@@ -73,3 +73,16 @@ Visualizations were created using Matplotlib and Seaborn to identify churn trend
 
 ## Outcome
 This project helped in understanding customer churn patterns and applying data analysis techniques using Python for business problem solving.
+
+
+<img width="975" height="837" alt="WhatsApp Image 2026-06-08 at 11 44 10 PM" src="https://github.com/user-attachments/assets/8028fbbc-fe96-4c78-968d-29654700c539" />
+
+<img width="521" height="507" alt="WhatsApp Image 2026-06-08 at 11 44 42 PM" src="https://github.com/user-attachments/assets/ec6d64e3-c3d2-4b93-8f7c-c23be191a6a1" />
+
+<img width="774" height="448" alt="image" src="https://github.com/user-attachments/assets/d16c175e-32e9-47d2-85fd-bff1ea5d437e" />
+
+<img width="967" height="648" alt="image" src="https://github.com/user-attachments/assets/b71dd5c0-077e-4e81-8e64-8899d0084c41" />
+
+
+
+
